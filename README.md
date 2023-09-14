@@ -9,3 +9,5 @@
 ```
 pip install requirements.txt
 ```
+### Database
+<img src="/public/img/SQL.png" alt="Alt text" title="Optional title">
